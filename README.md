@@ -30,7 +30,11 @@ Key metrics:
 8. Retrain the best tuned model. The best model was retrained on the whole training data set in order to increase the volume of data it can learn from. The test score has slightly improved thanks to this step.
 9. Sanity check. The test score of the Linear regression model, that we use as a baseline to analyze the model quality, is 43.54% higher than our final chosen model. It means that the modeling was useful.
 
+### Results
+
 **The CatBoost model with the tuned hyperparameters** has shown the best results (test RMSE of 1524, time of training 27 seconds, time of prediction 0.11 seconds) in terms of both quality and speed of training and prediction.
+
+### Logbook
 
 ### The logbook of this project can be found [here](https://docs.google.com/spreadsheets/d/1SrGdReexaSEomJGS6yR6cRwJtHA_XqpprnLaE7B6Ayg/edit#gid=14154505) (Num Methods).
 Total time spent on the project: 13.7 hours with a daily average of 2.03 hours working for 7 days.
