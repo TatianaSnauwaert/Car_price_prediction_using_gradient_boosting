@@ -15,7 +15,7 @@ Key metrics:
 
 - The project's jupyter notebook (Car_price_prediction_using_gradient_boosting.ipynb);
 - A pdf format of the notebook (Car_price_prediction_using_gradient_boosting.pdf);
-- Input data (car_data.csv);
+- Input data (car_data.csv.zip);
 - Project description from Practicum (Num_Methods_project_description.pdf);
 
 ### We have completed the following steps in this project:
